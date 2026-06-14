@@ -131,15 +131,5 @@ http://localhost:5173
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
     </td>
-    <td align="center">
-      <h3>Rodrigo Menezes</h3>
-      <a href="https://github.com/rodriimenezes" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br><br>
-      <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </td>
   </tr>
 </table>
